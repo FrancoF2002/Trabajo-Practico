@@ -1,0 +1,56 @@
+/* MENU: NAVBAR/HEADER */  
+
+  nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 15px;
+  }
+
+  nav ul li {
+    flex-basis: 50%; 
+  }
+  
+/* SECTION MAIN IMAGE */
+  
+  #section-main-image h1 {
+    font-size: 30px;
+  }
+  #section-main-image h3 {
+    font-weight: normal;
+  }
+  
+/* SECTION COFFEE */
+
+  #section-coffee h3 {
+    margin: 5px 0 5px 0;
+    font-size: 15px;
+  }
+
+  #section-coffee p {
+    text-align: left;
+    font-size: 10px;
+  }
+
+  .product-grid{
+    display: block;
+    text-align: center;
+    padding: 10px;
+  }
+
+  h2{
+  text-align: center;
+  }
+
+/* FOOTER CONTACT */
+
+  #footer-contact .contact-data {
+    display: block;
+    justify-content: space-between;
+  }
+  
+  .contact-form form {
+    text-align: left;
+  }
+  
+
+
